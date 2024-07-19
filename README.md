@@ -1,2 +1,2 @@
-# backend-python
-Backend Python con Arquitectura Hexagonal
+# backend-genai-python
+Backend Generative AI Python - Arquitectura Hexagonal
