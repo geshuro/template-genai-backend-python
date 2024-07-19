@@ -1,2 +1,2 @@
-# backend-1
-Backend tipo 1
+# backend-python
+Backend Python con Arquitectura Hexagonal
