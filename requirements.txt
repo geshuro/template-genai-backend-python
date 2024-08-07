@@ -1,5 +1,2 @@
-
-fastapi
-uvicorn
 azure-functions
-
+fastapi
