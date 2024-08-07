@@ -7,7 +7,7 @@ az ad app federated-credential create --id 8a0df03c-7569-4eea-ba26-e9d20d430c25 
 {
     "name": "oidc-github-geshuro-mvpx-genai",
     "issuer": "https://token.actions.githubusercontent.com",
-    "subject": "repo:geshuro/template-genai-backend-python:ref:refs/heads/develop",
+    "subject": "repo:geshuro/template-genai-backend-python:environment:Production",
     "description": "oidc-github-geshuro-mvpx-genai",
     "audiences": [
         "api://AzureADTokenExchange"
